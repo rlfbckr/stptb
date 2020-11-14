@@ -51,7 +51,7 @@ One day introduction into generative and parametric design for digital fabricati
       - Share your screen!
 
 
-* **15:00 - 16:00** | *Kaffee x Kuchen Break*
+* **15:00 - 16:00** | *Kaffee x Kuchen Break (Bring your own Cake)*
 
 * **16:00 - 18:00** | *Parametric Design x Generative Design with openSCAD*
 
