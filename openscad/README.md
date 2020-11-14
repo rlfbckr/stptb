@@ -18,7 +18,7 @@ One day introduction into generative and parametric design for digital fabricati
 5. A **three button** mouse incl. **wheel** is **very** helpful!
 4. Coffee and food by hand.
 
-## Schedule x Content *(Preliminary)*:
+## Schedule x Content *(preliminary)*:
 
 * **10:00 - 12:00** | *Fundamentals*
   1. Introduction
