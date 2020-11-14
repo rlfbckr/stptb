@@ -43,13 +43,16 @@ One day introduction into generative and parametric design for digital fabricati
   7. Workshop Time II
      - The participants can repeat and experiment the learned and ask questions  
 
+
 * **15:00 - 16:00** - *Kaffee x Kuchen Break*
 
 * **16:00 - 18:00** - *Parametric Design x Generative Design with openSCAD*
 
-  8. Parametric Design
+  8. Exporting
      - Designing for 3D printing (printability)
      - Exporting
-  9. Generative Design
+     - Test print
+  9. Outlook Parametric Design
+  10. Outlook Generative Design
 
 * **18:00** - *EOW*
