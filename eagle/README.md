@@ -21,11 +21,11 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
   1. Introduction
      - Why design your own PCBs?
      - Environmental Footprint?
-     - DIP vs SMD
-     - Fabrication 
+     - DIP vs SMD?
+     - Fabrication in China or at home?
+ 
+  2. Schematics
      - Eagle User Interface and basic concepts.
-
-  2. Schematics 
      - Adding Parts
      - Libraries of Parts
      - Connecting Parts
