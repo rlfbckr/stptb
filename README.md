@@ -1,5 +1,5 @@
 # Skills To Pay The Bills!
-Online Workshop Serien WS2020/21 HfK Bremen
+Online Workshop Series WS2020/21 HfK Bremen
 
 Workshops:
 
