@@ -14,6 +14,7 @@ One day introduction into generative and parametric design for digital fabricati
 1. Participants should have a **affinity** for code/ing!
 2. Basic knowledge of programming languages like C or Java/Processing is **beneficial**.
 3. Please install the latest **openSCAD** version from here: https://www.openscad.org/downloads.html (Please download the latest **developer snapshot** instead of the stable release)
+5. A **three button** mouse is **very** helpful!
 4. Coffee and food by hand.
 
 ## Schedule x Content:
