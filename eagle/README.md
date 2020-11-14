@@ -2,7 +2,7 @@
 
 ![eagle schematic](materials/eagle_board.png)
 
-One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**  ([www.autodesk.com/products/eagle/overview](hthttps://www.autodesk.com/products/eagle/overview)). The workshop offers a fundamental introduction into concepts, user interface and workflow. A full workflow cycle - form schematic to board layout and the final production in a factory in china - will be explained.
+One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia.org/wiki/Printed_circuit_board) CAD software **Eagle**  ([www.autodesk.com/products/eagle/overview](hthttps://www.autodesk.com/products/eagle/overview)). The workshop offers a fundamental introduction into concepts, user interface and workflow. A full workflow cycle - form schematic to board layout and the final production in a factory in china - will be explained.
 
 
 - **Date:** Saturday **2020-mm-dd** / **10:00** - **18:00**
@@ -24,6 +24,7 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
      - Why design your own PCBs?
      - Environmental Footprint?
      - DIP vs SMD?
+     - Materials
      - Fabrication in China or at home?
  
   2. Schematics
