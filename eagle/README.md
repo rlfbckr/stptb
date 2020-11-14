@@ -10,7 +10,7 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
 ## Pre/Requirements:
 
 1. Participants should have **good/solid** knowledge in electronics and fundamentals laws incl. making schematic, soldering. (At leased you should have already made **some** circuits on breadboards or with perfboard ).
-2. It could be helpful to have alrady a project in mind.
+2. It could be helpful to have already a **little** project in mind.
 3. Please install the free/educational version of  **EAGLE** form from here the autodesk website. (It's now strangly bundeled with Fursion 360. Look for educational licence )
 5. A **three button** mouse incl. **wheel** is **very** helpful!
 4. Coffee and food by hand.
@@ -26,7 +26,7 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
  
   2. Schematics
      - Eagle User Interface and basic concepts.
-     - Adding Parts
+     - Adding Parts - know your parts!
      - Libraries of Parts
      - Connecting Parts
      
