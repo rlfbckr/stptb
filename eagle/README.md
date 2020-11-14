@@ -50,7 +50,7 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
 
 * **16:00 - 18:00** | *Preparing for Production*
 
-  8. Testing ERC + DRC
+  8. Testing and Checking ERC + DRC
   9. Exporting Gerber Files
   10. Uploading files to your chinese manufacturer of choice!
 
