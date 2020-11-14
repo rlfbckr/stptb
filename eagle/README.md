@@ -39,15 +39,17 @@ One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**
 * **13:00 - 15:00** |  *Layouting a Board*
 
   4. Placing parts
-  5. Routing signals
-  6. Ground plate
+  5. Ground plate
+  6. Routing signals
+  7. Vias
+
 
 * **15:00 - 16:00** | *Kaffee x Kuchen Break (Bring your own Cake)*
 
 * **16:00 - 18:00** | *Preparing for Production*
 
-  7. Exporting Gerber Files
-  8. Uploading files to your chinese manufacturer of choice!
+  8. Exporting Gerber Files
+  9. Uploading files to your chinese manufacturer of choice!
 
 * **18:00** | *EOW*
 
