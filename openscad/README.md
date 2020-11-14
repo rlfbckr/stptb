@@ -26,8 +26,8 @@ One day introduction into generative and parametric design for digital fabricati
      - Constructive solid geometry
      - Advantages and limits
      - Ecosystem
-       + Libraries + standard parts
-       + https://www.thingiverse.com/
+       + [Libraries](https://www.openscad.org/libraries.html) + standard parts
+       + [thingyiverse.com](https://www.thingiverse.com/)
 
   2. Basic concepts of openSCAD 
      - Interface
