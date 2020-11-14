@@ -23,6 +23,7 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
   1. Introduction
      - Why design your own PCBs?
      - Environmental Footprint?
+     - *Design*ing PCB as a *designer*?
      - DIP vs SMD?
      - Materials
      - Fabrication in China or at home?
