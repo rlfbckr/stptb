@@ -62,3 +62,6 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
 * **18:00** | *EOW*
 
 ![eagle schematic](materials/eagle_schematics.png)
+
+![eagle schematic](materials/board_nomidi.jpg)
+
