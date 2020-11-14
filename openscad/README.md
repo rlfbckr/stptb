@@ -1,17 +1,17 @@
 # Designing Parts for Machines and Installations with OpenSCAD
 
-Date: **Saturday 2020-11-28 / 10:00 - 18:00**
+Date: *Saturday* **2020-11-28** / **10:00** - **18:00**
 
-Registration: Send me an email or direct message for a binding registration. Please make sure
+Registration: *Send me an email or direct message for a* **binding** *registration. Please make sure that you join the workshop for the* **full day**.
 
 
 One day introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller*. The workshop offers a fundamental introductions into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
 
-## Pre-Requirements:
-1. Participants should have a **thing** for code.
-2. Basic knowledge of programming languages like C or Java/Processing is required.
-3. Please install the latest openSCAD version from here: https://www.openscad.org/downloads.html (Please download the latest developer snapshot instead of the stable release)
+## Pre/Requirements:
 
+1. Participants should have a **affinity** for code/ing!
+2. Basic knowledge of programming languages like C or Java/Processing is **beneficial**.
+3. Please install the latest **openSCAD** version from here: https://www.openscad.org/downloads.html (Please download the latest **developer snapshot** instead of the stable release)
 
 ## Schedule x Content:
 
