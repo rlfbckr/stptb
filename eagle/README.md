@@ -20,6 +20,7 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
 ## Schedule x Content *(preliminary)*:
 
 * **10:00 - 12:00** | *Fundamentals*
+
   1. Introduction
      - Why design your own PCBs?
      - Environmental Footprint?
@@ -46,15 +47,17 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
   5. Ground plate
   6. Routing signals
   7. Vias
-
+  8. Q&A Time I
+     - The participants can repeat and experiment the learned and ask questions  
+     - Share your screen!
 
 * **15:00 - 16:00** | *Kaffee x Kuchen Break (Bring your own Cake)*
 
 * **16:00 - 18:00** | *Preparing for Production*
 
-  8. Testing and Checking ERC + DRC
-  9. Exporting Gerber Files
-  10. Uploading files to your chinese manufacturer of choice!
+  9. Testing and Checking ERC + DRC
+  10. Exporting Gerber Files
+  11. Uploading files to your chinese manufacturer of choice!
 
 * **18:00** | *EOW*
 
