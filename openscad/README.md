@@ -64,4 +64,9 @@ One day introduction into generative and parametric design for digital fabricati
 
 * **18:00** | *EOW*
 
+## 3D Printed example
+
 ![print example](materials/print.jpg)
+
+## Parametric example
+![print example](materials/parametric.jpg)
