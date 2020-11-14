@@ -1,6 +1,6 @@
 # Designing PCBs with Eagle
 
-One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**  ([www.autodesk.com/products/eagle/overview](hthttps://www.autodesk.com/products/eagle/overview)). The workshop offers a fundamental introduction into the concepts, user interface of Eagle, basic tips for designs PCB form schematic to board layout and the final production in a factory in china. 
+One day introduction into the PCB (Printed Circuit Board) CAD software **Eagle**  ([www.autodesk.com/products/eagle/overview](hthttps://www.autodesk.com/products/eagle/overview)). The workshop offers a fundamental introduction into concepts, user interface and workflow - form schematic to board layout and the final production in a factory in china. 
 
 
 - **Date:** Saturday **2020-mm-dd** / **10:00** - **18:00**
