@@ -44,7 +44,7 @@ One day introduction into generative and parametric design for digital fabricati
 * **13:00 - 15:00** |  *Advanced concepts of openSCAD*
 
   4. Modules + Functions
-  5. Loops
+  5. Loops + control structures
   6. Randomness + Sine 
   7.  Q&A Time II
       - The participants can repeat and experiment the learned and ask questions  
