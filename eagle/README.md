@@ -51,7 +51,7 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
      - The participants can repeat and experiment the learned and ask questions  
      - Share your screen!
 
-* **15:00 - 16:00** | *Kaffee x Kuchen Break (Bring your own Cake)*
+* **15:00 - 16:00** | *Kaffee x Kuchen Break / BYOC (Bring your own Cake)*
 
 * **16:00 - 18:00** | *Preparing for Production*
 
