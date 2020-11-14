@@ -3,11 +3,11 @@
 One day introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller*. The workshop offers a fundamental introductions into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
 
 
-- **Date:** *Saturday* **2020-11-28** / **10:00** - **18:00**
+- **Date:** Saturday **2020-11-28** / **10:00** - **18:00**
 
-- **Registration:** *Send me an email or direct message for a* **binding** *registration. Please make sure that you join the workshop for the* **full day**. (The workshop is limited to **15 participants**)
+- **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you join the workshop for the **full day**. (The workshop is limited to **15 participants**)
 
-- **The workshop will be held online via MS Teams.**
+- The workshop will be held **online via MS Teams.**
 
 ## Pre/Requirements:
 
