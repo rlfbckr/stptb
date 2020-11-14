@@ -7,9 +7,7 @@ One day introduction into generative and parametric design for digital fabricati
 
 
 - **Date:** Saturday **2020-11-28** / **10:00** - **18:00**
-
-- **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you join the workshop for the **full day**. (The workshop is limited to **15 participants**)
-
+- **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you are able to join the workshop for the **full day**. (The workshop is limited to **15 participants**)
 - The workshop will be held **online via MS Teams.**
 
 ## Pre/Requirements:
@@ -20,7 +18,7 @@ One day introduction into generative and parametric design for digital fabricati
 5. A **three button** mouse incl. **wheel** is **very** helpful!
 4. Coffee and food by hand.
 
-## Schedule x Content:
+## Schedule x Content *(Preliminary)*:
 
 * **10:00 - 12:00** | *Fundamentals*
   1. Introduction
