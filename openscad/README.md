@@ -1,8 +1,8 @@
-# Designing Parts for Machines and Installations with OpenSCAD
+# Designing Parts for *Machines and Installations* with OpenSCAD
 
 Date: *Saturday* **2020-11-28** / **10:00** - **18:00**
 
-Registration: *Send me an email or direct message for a* **binding** *registration. Please make sure that you join the workshop for the* **full day**.
+Registration: *Send me an email or direct message for a* **binding** *registration. Please make sure that you join the workshop for the* **full day**. (The workshop is limited to 15 participans)
 
 
 One day introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller*. The workshop offers a fundamental introductions into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
@@ -15,7 +15,7 @@ One day introduction into generative and parametric design for digital fabricati
 
 ## Schedule x Content:
 
-* **10:00 - 12:00** - *Fundamentals*
+* **10:00 - 12:00** | *Fundamentals*
   1. Introduction
      - Designing with code
      - Constructive solid geometry
@@ -30,23 +30,25 @@ One day introduction into generative and parametric design for digital fabricati
      - Boolean operations
      - Debugging
 
-  3. Workshop Time I
+  3. Q&A Time I
      - The participants can repeat and experiment the learned and ask questions  
+     - Share your screen!
 
-* **12:00 - 13:00** - *Lunch Break*
+* **12:00 - 13:00** | *Lunch Break*
 
-* **13:00 - 15:00** -  *Advanced concepts of openSCAD*
+* **13:00 - 15:00** |  *Advanced concepts of openSCAD*
 
   4. Modules + Functions
   5. Loops
   6. Randomness + Sine 
-  7. Workshop Time II
-     - The participants can repeat and experiment the learned and ask questions  
+  7.  Q&A Time II
+      - The participants can repeat and experiment the learned and ask questions  
+      - Share your screen!
 
 
-* **15:00 - 16:00** - *Kaffee x Kuchen Break*
+* **15:00 - 16:00** | *Kaffee x Kuchen Break*
 
-* **16:00 - 18:00** - *Parametric Design x Generative Design with openSCAD*
+* **16:00 - 18:00** | *Parametric Design x Generative Design with openSCAD*
 
   8. Exporting
      - Designing for 3D printing (printability)
@@ -55,4 +57,4 @@ One day introduction into generative and parametric design for digital fabricati
   9. Outlook Parametric Design
   10. Outlook Generative Design
 
-* **18:00** - *EOW*
+* **18:00** | *EOW*
