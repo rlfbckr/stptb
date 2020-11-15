@@ -72,13 +72,24 @@ One day introduction into generative and parametric design for digital fabricati
 
 
 ## Links
+* General
+  - [OpenSCAD Cheat Sheet](https://www.openscad.org/cheatsheet/index.html)
+
 * Articles
   - [OpenSCAD: 3D Modelling for coders](https://medium.com/@mr_koz/openscad-3d-modelling-for-coders-10dd40650dac)
   - [Faster 3D modelling with openscad](https://medium.com/@mr_koz/faster-3d-modelling-with-openscad-d6443f3eea79)
 
 * Tips and Tricks
   - [How does part orientation affect a 3D print?](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
-  - [HOW TO USE HEAT-SET INSERTS](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
+  - [How to use Heat-Set Inserts](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
+  - [Round-Anything, a pragmatic approach to OpenSCAD design](https://kurthutten.com/blog/round-anything-a-pragmatic-approach-to-openscad-design/)
+  - [Round Anything Openscad - Making fillets easy](https://www.youtube.com/watch?v=laxv2wFKq8Q&feature=emb_title)
+  - [Mastering OpenSCAD Workflow](https://hackaday.com/2018/11/14/mastering-openscad-workflow/)
+  - [Designing 3D Printable Mechanisms in OpenSCAD](https://urish.medium.com/designing-3d-printable-mechanisms-in-openscad-5838dcb65b39)
 
 * Libraries
+  - [Overview](https://www.openscad.org/libraries.html)
   - [NopSCADlib](https://github.com/nophead/NopSCADlib)
+  - [MCAD](https://github.com/openscad/MCAD)
+  - [RoundAnything](https://github.com/Irev-Dev/Round-Anything)
+  - [Thingiverse](https://www.thingiverse.com/)
