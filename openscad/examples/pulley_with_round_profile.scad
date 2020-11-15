@@ -5,7 +5,7 @@ pulley_outer_diameter = 30; // outer diamter of the pulley
 pulley_wall_height = 5;
 pulley_wall_thickness = 1;
 
-$fn=90;
+$fn=50;
 
 
 difference() {
