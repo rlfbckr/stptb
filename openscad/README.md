@@ -69,3 +69,17 @@ One day introduction into generative and parametric design for digital fabricati
 
 ## Parametric example
 ![print example](materials/parametric.jpg)
+
+
+## Links
+* Articles
+  - [OpenSCAD: 3D Modelling for coders](https://medium.com/@mr_koz/openscad-3d-modelling-for-coders-10dd40650dac)
+  - [Faster 3D modelling with openscad](https://medium.com/@mr_koz/faster-3d-modelling-with-openscad-d6443f3eea79)
+
+* Tips and Tricks
+  - [How does part orientation affect a 3D print?](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
+
+ - [HOW TO USE HEAT-SET INSERTS](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
+
+* Libraries
+  - [NopSCADlib](https://github.com/nophead/NopSCADlib)

@@ -1,6 +1,6 @@
 pulley_width = 10; // mmm
-pulley_axis_diameter = 5; // eg motor axis ; e.g. for stepper28BYJ
-pilley_axis_cut = 3.1;
+pulley_axis_diameter = 5; // eg motor axis 
+pilley_axis_cut = 3.1; // e.g. for stepper28BYJ
 pulley_outer_diameter = 30; // outer diamter of the pulley
 pulley_wall_height = 5;
 pulley_wall_thickness = 1;
