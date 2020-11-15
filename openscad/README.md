@@ -78,8 +78,7 @@ One day introduction into generative and parametric design for digital fabricati
 
 * Tips and Tricks
   - [How does part orientation affect a 3D print?](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
-
- - [HOW TO USE HEAT-SET INSERTS](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
+  - [HOW TO USE HEAT-SET INSERTS](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
 
 * Libraries
   - [NopSCADlib](https://github.com/nophead/NopSCADlib)
