@@ -22,6 +22,7 @@ One day introduction into generative and parametric design for digital fabricati
 
 * **10:00 - 12:00** | *Fundamentals*
   1. Introduction
+  
      - Designing with code
      - Constructive solid geometry
      - Advantages and limits
@@ -30,12 +31,14 @@ One day introduction into generative and parametric design for digital fabricati
        + [thingyiverse.com](https://www.thingiverse.com/)
 
   2. Basic concepts of openSCAD 
+  
      - Interface
      - Object primitives
      - Boolean operations
      - Debugging
 
   3. Q&A Time I
+
      - The participants can repeat and experiment the learned and ask questions  
      - Share your screen!
 
@@ -54,9 +57,11 @@ One day introduction into generative and parametric design for digital fabricati
 * **16:00 - 18:00** | *Parametric Design x Generative Design with openSCAD*
 
   8. Exporting
+  
      - Designing for 3D printing (printability)
      - Exporting
      - Test print
+  
   9. Outlook Parametric Design
   10. Outlook Generative Design
 
