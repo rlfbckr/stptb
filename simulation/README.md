@@ -1,34 +1,28 @@
-# Designing Parts for *Machines and Installations* with OpenSCAD
+# Simulating Machines + Installations with Processing
 
-
-![openscad example](materials/openscad_example.png)
+A one day workshop showing a very *idiosyncratic* approach into sketching and simulating machines + installation with processing ( [processing.org](https://processing.org/) ).
 
 One day introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller* ( [openscad.org](https://openscad.org) ). The workshop offers a fundamental introduction into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
 
 
-- **Date:** Saturday **2020-11-28** / **10:00** - **18:00**
+- **Date:** Saturday **2020-01-xx** / **10:00** - **18:00**
 - **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you are able to join the workshop for the **full day**. (The workshop is limited to **15 participants**)
 - The workshop will be held **online via MS Teams.**
 
 ## Pre/Requirements:
 
-1. Participants should have a **affinity** for code~ing!
-2. Basic knowledge of programming languages like C or Java/Processing is **beneficial**.
-3. Please install the latest **openSCAD** version from here: https://www.openscad.org/downloads.html (Please download the latest **developer snapshot** instead of the stable release)
-5. A **three button** mouse incl. **wheel** is **very** helpful!
+1. Participants should have a **solid** processing knowledge (working with classes, threads, 3D transformations etc) !
+2. Please install the latest **processing** version including the following libraries: [controlP5](http://www.sojamo.de/libraries/controlP5/), [peasycam](http://mrfeinberg.com/peasycam/), 
+3. A **three button** mouse incl. **wheel** is **very** helpful!
 4. Coffee and food by hand.
 
 ## Schedule x Content *(preliminary)*:
 
 * **10:00 - 12:00** | *Fundamentals*
   1. Introduction
-  
-     - Designing with code
-     - Constructive solid geometry
+     - Why simulating?
+     - Designing with code vs. 3D modeller?
      - Advantages and limits
-     - Ecosystem
-       + [Libraries](https://www.openscad.org/libraries.html) + standard parts
-       + [thingyiverse.com](https://www.thingiverse.com/)
 
   2. Basic concepts of openSCAD 
   
@@ -90,8 +84,6 @@ One day introduction into generative and parametric design for digital fabricati
   - [Round Anything Openscad - Making fillets easy](https://www.youtube.com/watch?v=laxv2wFKq8Q&feature=emb_title)
   - [Mastering OpenSCAD Workflow](https://hackaday.com/2018/11/14/mastering-openscad-workflow/)
   - [Designing 3D Printable Mechanisms in OpenSCAD](https://urish.medium.com/designing-3d-printable-mechanisms-in-openscad-5838dcb65b39)
-
-  - [OPENSCAD: TIEING IT TOGETHER WITH HULL()](https://hackaday.com/2018/02/13/openscad-tieing-it-together-with-hull/)
 
 * Libraries
 
