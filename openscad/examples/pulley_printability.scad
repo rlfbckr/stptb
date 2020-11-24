@@ -1,8 +1,8 @@
-pulley_width = 8; // mmm
+pulley_width = 10; // mmm
 pulley_axis_diameter = 5; // eg motor axis 
 pilley_axis_cut = 3.1; // e.g. for stepper28BYJ
-pulley_outer_diameter = 20; // outer diamter of the pulley
-pulley_wall_height = 3;
+pulley_outer_diameter = 25; // outer diamter of the pulley
+pulley_wall_height = 5;
 pulley_wall_thickness = 1;
 
 $fn=90;
@@ -16,7 +16,7 @@ difference() {
     axis_profile_28BYJ();
 } 
 
-translate([0,0,-20*explosion]) {
+!translate([0,0,-20*explosion]) {
     difference() {
         union() {
             difference() {

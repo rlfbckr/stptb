@@ -1,7 +1,7 @@
 // parameter
 
-star_edges = 10;
-star_min = 3;
+star_edges = 40;
+star_min = 18;
 star_max = 20;
 
 // generate star shape polygon
@@ -14,15 +14,15 @@ star_shape =[
 
 echo(shape);
 
-color("Red") {
+color("White") {
     linear_extrude(height=ex_height) {
         polygon(star_shape);
     }
 }
 
-color("Yellow") {
+color("Green") {
     translate([100,0,0]) {
-        linear_extrude(height=ex_height,twist=90, convexity = 10,center=false) {
+        linear_extrude(height=ex_height,twist=390, convexity = 10,center=false) {
             polygon(star_shape);
         }
     }
