@@ -1,6 +1,6 @@
 // parameter
 
-star_edges = 40;
+star_edges = 30;
 star_min = 18;
 star_max = 20;
 
