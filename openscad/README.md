@@ -25,6 +25,7 @@ One day introduction into generative and parametric design for digital fabricati
   
      - Designing with code
      - [Constructive solid geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+     - Examples
      - Advantages and limits
      - Ecosystem
        + [Libraries](https://www.openscad.org/libraries.html) + standard parts
@@ -32,6 +33,7 @@ One day introduction into generative and parametric design for digital fabricati
 
   2. Basic concepts of openSCAD 
   
+
      - Interface
      - Object primitives
      - Boolean operations
