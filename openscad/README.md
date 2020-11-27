@@ -24,7 +24,7 @@ One day introduction into generative and parametric design for digital fabricati
   1. Introduction
   
      - Designing with code
-     - Constructive solid geometry
+     - [Constructive solid geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
      - Advantages and limits
      - Ecosystem
        + [Libraries](https://www.openscad.org/libraries.html) + standard parts

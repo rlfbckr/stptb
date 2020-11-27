@@ -6,7 +6,7 @@
     Boolean opperations on solid objects
 */
 
-//$fn=50;
+//$fn=50; //faces 
 
 cube([20,20,20]);
 cylinder(r=4,h=40,center=true);
