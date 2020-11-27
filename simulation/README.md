@@ -2,7 +2,7 @@
 
 A one day workshop showing a very *idiosyncratic* approach into sketching and simulating machines + installation with processing ( [processing.org](https://processing.org/) ).
 
-One day introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller* ( [openscad.org](https://openscad.org) ). The workshop offers a fundamental introduction into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
+*more soon*
 
 
 - **Date:** Saturday **2020-01-xx** / **10:00** - **18:00**
@@ -24,71 +24,8 @@ One day introduction into generative and parametric design for digital fabricati
      - Designing with code vs. 3D modeller?
      - Advantages and limits
 
-  2. Basic concepts of openSCAD 
-  
-     - Interface
-     - Object primitives
-     - Boolean operations
-     - Debugging
-
-  3. Q&A Time I
-     - The participants can repeat and experiment the learned and ask questions  
-     - Share your screen!
-
-* **12:00 - 13:00** | *Lunch Break*
-
-* **13:00 - 15:00** |  *Advanced concepts of openSCAD*
-
-  4. Modules + Functions
-  5. Loops + control structures
-  6. Randomness + Sine 
-  7.  Q&A Time II
+  2. Libraries
 
 
-* **15:00 - 16:00** | *Kaffee x Kuchen Break (Bring your own Cake)*
-
-* **16:00 - 18:00** | *Parametric Design x Generative Design with openSCAD*
-
-  8. Exporting
-     - Designing for 3D printing (printability)
-     - Exporting
-     - Test print
-  9. Outlook Parametric Design
-  10. Outlook Generative Design
 
 * **18:00** | *EOW*
-
-## 3D Printed example
-![print example](materials/print.jpg)
-
-## Parametric example
-![print example](materials/parametric.jpg)
-
-
-## Links
-* General
-
-  - [OpenSCAD Cheat Sheet](https://www.openscad.org/cheatsheet/index.html)
-
-* Articles
-
-  - [OpenSCAD: 3D Modelling for coders](https://medium.com/@mr_koz/openscad-3d-modelling-for-coders-10dd40650dac)
-  - [Faster 3D modelling with openscad](https://medium.com/@mr_koz/faster-3d-modelling-with-openscad-d6443f3eea79)
-  - [Curated Code CAD](https://kurthutten.com/blog/curated-code-cad/)
-
-* Tips and Tricks
-
-  - [How does part orientation affect a 3D print?](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
-  - [How to use Heat-Set Inserts](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/)
-  - [Round-Anything, a pragmatic approach to OpenSCAD design](https://kurthutten.com/blog/round-anything-a-pragmatic-approach-to-openscad-design/)
-  - [Round Anything Openscad - Making fillets easy](https://www.youtube.com/watch?v=laxv2wFKq8Q&feature=emb_title)
-  - [Mastering OpenSCAD Workflow](https://hackaday.com/2018/11/14/mastering-openscad-workflow/)
-  - [Designing 3D Printable Mechanisms in OpenSCAD](https://urish.medium.com/designing-3d-printable-mechanisms-in-openscad-5838dcb65b39)
-
-* Libraries
-
-  - [Overview](https://www.openscad.org/libraries.html)
-  - [NopSCADlib](https://github.com/nophead/NopSCADlib)
-  - [MCAD](https://github.com/openscad/MCAD)
-  - [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
-  - [Thingiverse](https://www.thingiverse.com/)
