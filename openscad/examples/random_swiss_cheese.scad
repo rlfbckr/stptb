@@ -1,8 +1,9 @@
-cheeseholes = 100;
+cheeseholes = 80;
 cheeseholes_min_size = 10;
 cheeseholes_max_size = 20;
 cheeseblock_dim = [100,100,100];
-seed = 1;
+
+seed = 8;
 random_cheesehole_positions = rands(0,cheeseblock_dim[0],3*cheeseholes);
 random_cheesehole_size = rands(cheeseholes_min_size,cheeseholes_max_size,cheeseholes);
 
