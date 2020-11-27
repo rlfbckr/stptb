@@ -1,9 +1,11 @@
 /*
-    Constructive_solid_geometry / Demo
+    Constructive solid geometry introduction
+    Boolean opperations on solid objects
+
     ralf baecker 2020
    
     https://en.wikipedia.org/wiki/Constructive_solid_geometry
-    Boolean opperations on solid objects
+
 */
 
 //$fn=50; //faces 
@@ -18,6 +20,7 @@ translate([50,0,0]) {
         cube([20,20,20]);
         translate([10,10,10]) rotate([90,0,0]) cylinder(r=4,h=40,center=true);
     }
+    // text
     translate([0,0,40] ) rotate([90,0,0]) color("White") text("difference()",size=3);
 }
 
@@ -27,6 +30,7 @@ translate([100,0,0]) {
         cube([20,20,20]);
         translate([10,10,10]) rotate([90,0,0]) cylinder(r=4,h=40,center=true);
     }
+    // text
     translate([0,0,40] ) rotate([90,0,0]) color("White") text("union()",size=3);
 }
 
@@ -36,8 +40,8 @@ translate([150,0,0]) {
         cube([20,20,20]);
         translate([10,10,10]) rotate([90,0,0]) cylinder(r=4,h=40,center=true);
     }
+    // text
     translate([0,0,40] ) rotate([90,0,0]) color("White") text("intersection()",size=3);
-
 }
 
 
