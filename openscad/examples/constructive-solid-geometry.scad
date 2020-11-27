@@ -1,8 +1,8 @@
 /*
-
-    Constructive_solid_geometry
+    Constructive_solid_geometry / Demo
+    ralf baecker 2020
+   
     https://en.wikipedia.org/wiki/Constructive_solid_geometry
-
     Boolean opperations on solid objects
 */
 

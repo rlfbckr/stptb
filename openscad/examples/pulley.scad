@@ -1,3 +1,8 @@
+/*
+  pully generator
+  ralf baecker 2020
+*/
+
 pulley_width = 8; // mmm
 pulley_axis_diameter = 5; // eg motor axis 
 pilley_axis_cut = 3.1; // e.g. for stepper28BYJ
