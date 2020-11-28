@@ -1,7 +1,7 @@
-pulley_width = 10; // mmm
+pulley_width = 20; // mmm
 pulley_axis_diameter = 5; // eg motor axis 
 pilley_axis_cut = 3.1; // e.g. for stepper28BYJ
-pulley_outer_diameter = 25; // outer diamter of the pulley
+pulley_outer_diameter = 45; // outer diamter of the pulley
 pulley_wall_height = 5;
 pulley_wall_thickness = 1;
 
@@ -16,7 +16,7 @@ difference() {
     axis_profile_28BYJ();
 } 
 
-!translate([0,0,-20*explosion]) {
+translate([0,0,-50*explosion]) {
     difference() {
         union() {
             difference() {
@@ -37,7 +37,7 @@ module axis_profile_round() {
 }
 
 module axis_profile_28BYJ() {
-        intersection() {
+    intersection() {
         cylinder(h=pulley_width+10,r=pulley_axis_diameter/2,center=true,$fn=40);
         cube([pulley_axis_diameter,pilley_axis_cut,pulley_width+2],center=true);
     }

@@ -1,8 +1,8 @@
 // dimensions
 
-enc_width=100;
+enc_width=40;
 enc_depth=100;
-enc_height = 50;
+enc_height = 20;
 enc_wallwidth=2;
 enc_hole_dist =4;
 
