@@ -1,8 +1,9 @@
 $fn=50;
 // https://www.youtube.com/watch?v=3qMNuoTHNHs
+ 
 
-!color("Yellow") minkowski() {
-  cube([10,10,1]);
+color("Yellow") minkowski() {
+  cube([50,50,51]);
   cylinder(r=4,h=1);
 }
 
@@ -15,7 +16,7 @@ translate([50,0,0]) {
 }
 
 
-translate([-50,0,0]) {
+!translate([-50,0,0]) {
     color("Blue") hull() {
         sphere(r=4);
         translate([20,20,0])
