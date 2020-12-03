@@ -5,7 +5,7 @@
 One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia.org/wiki/Printed_circuit_board) CAD software **Eagle**  ([www.autodesk.com/products/eagle/overview](hthttps://www.autodesk.com/products/eagle/overview)). The workshop offers a fundamental introduction into concepts, user interface and workflow. A full workflow cycle - form schematic to board layout and the final production in a factory in china - will be explained.
 
 
-- **Date:** Saturday **2020-mm-dd** / **10:00** - **18:00**
+- **Date:** Monday **2020-12-21** / **10:00** - **18:00**
 - **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you are able to join the workshop for the **full day**. (The workshop is limited to **15 participants**)
 - The workshop will be held **online via MS Teams.**
 
