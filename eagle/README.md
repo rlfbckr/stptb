@@ -31,7 +31,7 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
  
   2. Schematics
      - Eagle User Interface and basic concepts.
-     - Adding Parts - know your parts!
+     - Adding Parts - **KNOW YOU PARTS!!!!!!!!!**
      - Libraries of Parts
      - Connecting Parts
      
