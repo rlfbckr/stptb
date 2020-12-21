@@ -11,7 +11,7 @@ One day introduction into the PCB [(Printed Circuit Board)](https://en.wikipedia
 
 ## Pre/Requirements:
 
-1. Participants should have **good/solid** knowledge in electronics and fundamental electric laws incl. reading schematics, soldering and some experiance with sourcing parts. (At leased you should have already made **some** circuits on breadboards or with perfboard ).
+1. Participants should have **GOOD/SOLID** knowledge in electronics and fundamental electric laws incl. reading schematics, soldering and some experiance with sourcing parts. (At leased you should have already made **some** circuits on breadboards or with perfboard ).
 2. It could be helpful to have already a **little** project in mind.
 3. Please install the free/educational version of  **EAGLE** form from the [autodesk website](https://www.autodesk.de/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1). (It's now strangly bundeled with Fursion 360. Look for educational licence )
 5. A **three button** mouse incl. **wheel** is **very** helpful!
