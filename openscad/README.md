@@ -21,10 +21,10 @@ One day introduction into generative and parametric design for digital fabricati
 
 * **10:00 - 12:00** | *Fundamentals*
   1. Introduction
-     - Designing with code
+     - Designing with code [CodeCad](https://github.com/Irev-Dev/curated-code-cad) + [CadHub](https://learn.cadhub.xyz/)
      - [Constructive solid geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
-     - Examples
-     - Advantages and limits
+     - Examples 
+     - Advantages and limits [CadHub](https://cadhub.xyz/)
      - Ecosystem
        + [Libraries](https://www.openscad.org/libraries.html) + standard parts
        + [thingyiverse.com](https://www.thingiverse.com/)
