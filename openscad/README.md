@@ -11,7 +11,6 @@ One day introduction into generative and parametric design for digital fabricati
 - The workshop will be held **online via MS Teams.**
 
 ## Pre/Requirements:
-
 1. Participants should have a **affinity** for code~ing!
 2. Basic knowledge of programming languages like C or Java/Processing is **beneficial**.
 3. Please install the latest **openSCAD** version from here: https://www.openscad.org/downloads.html (Please download the latest **developer snapshot** instead of the stable release)
