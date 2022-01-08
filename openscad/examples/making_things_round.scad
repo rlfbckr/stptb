@@ -16,7 +16,7 @@ translate([50,0,0]) {
 }
 
 
-!translate([-50,0,0]) {
+translate([-50,0,0]) {
     color("Blue") hull() {
         sphere(r=4);
         translate([20,20,0])

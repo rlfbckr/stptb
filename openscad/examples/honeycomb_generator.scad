@@ -5,8 +5,8 @@
 
 
 nothing = 0.01; // avoid z-fighting
-comb_size=5; // diameter 
-comb_height=3; // height
+comb_size=50; // diameter 
+comb_height=30; // height
 comb_thickness = 1; // wall thickness
 
 color("Grey") combgrid(20,20);

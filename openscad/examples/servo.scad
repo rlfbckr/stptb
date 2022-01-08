@@ -3,7 +3,7 @@ w = 22.6;
 d = 12.2;
 hw = 32;
 
-// translate([0,30,0]) servo_MG90s();
+ translate([0,30,0]) servo_MG90s();
 
 function getcenter() = w/2;
 

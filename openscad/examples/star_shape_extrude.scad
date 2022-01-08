@@ -24,7 +24,7 @@ color("White") {
     }
 }
 
-!color("Green") {
+color("Green") {
     translate([100,0,0]) {
         linear_extrude(height=ex_height,twist=90, convexity = 10,center=false) {
             polygon(star_shape);
