@@ -8,7 +8,7 @@ comb_size = 5; // diameter
 comb_height = 3; // height
 comb_thickness = 1; // wall thickness
 
-color("Grey") combgrid(20,20);
+color("Grey") combgrid(10,10);
 
 module combgrid(w,h) {
     comb_tri_height = (comb_size/2) * sqrt(3);
