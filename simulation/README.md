@@ -5,13 +5,13 @@ A one day workshop showing a very *idiosyncratic* approach into sketching and si
 *more soon*
 
 
-- **Date:** Saturday **2020-01-xx** / **10:00** - **18:00**
+- **Date:** Saturday **2021-01-xx** / **10:00** - **18:00**
 - **Registration:** Send me an email or direct message for a **binding** registration. Please make sure that you are able to join the workshop for the **full day**. (The workshop is limited to **15 participants**)
 - The workshop will be held **online via MS Teams.**
 
 ## Pre/Requirements:
 
-1. Participants should have a **solid** processing knowledge (working with classes, threads, 3D transformations etc) !
+1. Participants should have a **very solid** processing knowledge (working with classes, threads, 3D transformations etc) !
 2. Please install the latest **processing** version including the following libraries: [controlP5](http://www.sojamo.de/libraries/controlP5/), [peasycam](http://mrfeinberg.com/peasycam/), 
 3. A **three button** mouse incl. **wheel** is **very** helpful!
 4. Coffee and food by hand.
@@ -25,7 +25,13 @@ A one day workshop showing a very *idiosyncratic* approach into sketching and si
      - Advantages and limits
 
   2. Libraries
+     - coming soon
 
+  3. First Example
+     - coming soon
 
 
 * **18:00** | *EOW*
+
+  3. Second Example
+
